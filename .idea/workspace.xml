@@ -20,6 +20,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VWMPjPVmnrZtba7w5fbMj5AF4C" />
   <component name="PropertiesComponent">
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
@@ -44,7 +47,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.HamcrestTest.objectMatchersTest">
+  <component name="RunManager" selected="Gradle.HamcrestTest">
+    <configuration name="HamcrestTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.HamcrestTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="HamcrestTest.arrayMatchesTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -127,6 +150,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.HamcrestTest" />
         <item itemvalue="Gradle.HamcrestTest.objectMatchersTest" />
         <item itemvalue="Gradle.HamcrestTest.arrayMatchesTest" />
         <item itemvalue="Gradle.HamcrestTest.listMatchersTest" />

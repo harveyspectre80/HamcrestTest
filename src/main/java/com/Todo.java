@@ -16,11 +16,9 @@ public class Todo {
     public int getId() {
         return id;
     }
-
     public String getSummary() {
         return summary;
     }
-
     public String getDesc() {
         return desc;
     }

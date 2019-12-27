@@ -42,4 +42,5 @@ public class HamcrestTest
         MatcherAssert.assertThat(todo,Matchers.hasProperty("summary",Matchers.equalTo("Learn Hamcrest")));
         MatcherAssert.assertThat(todo, Matchers.samePropertyValuesAs(todo2));
     }
+
 }
