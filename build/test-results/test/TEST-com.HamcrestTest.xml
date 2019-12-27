@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.HamcrestTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-12-27T04:09:57" hostname="admin" time="0.063">
+  <properties/>
+  <testcase name="arrayMatchesTest" classname="com.HamcrestTest" time="0.006"/>
+  <testcase name="objectMatchersTest" classname="com.HamcrestTest" time="0.037"/>
+  <testcase name="listMatchersTest" classname="com.HamcrestTest" time="0.002"/>
+  <testcase name="corematchersTest" classname="com.HamcrestTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
